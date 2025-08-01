@@ -1,6 +1,6 @@
 class APIList {
-  static String? server = "https://demo.food-bank.xyz/api/v1/";
-  static String? apiUrl = "demo.food-bank.xyz";
+  static String? server = "https://b12.syntaxinnovations.com/api/v1/";
+  static String? apiUrl = "b12.syntaxinnovations.com";
   static String? apiEndPoint = "/api/v1/";
   static String? setting = "settings";
   static String? login = "login";
